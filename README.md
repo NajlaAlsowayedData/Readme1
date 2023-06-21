@@ -14,7 +14,6 @@ If you have color blindness, it means you see colors differently than most peopl
 Taking Labeled images of clothes from the Roboflow Website contains 5014 labeled images, and this is the resource: 
 https://universe.roboflow.com/dataset-yn4f8/detect-e9mzw/dataset/3
 
-
 # Proposed Algorithms:
 <img src="yolo-png--1337.png"  width="500" height="350">  
 
