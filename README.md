@@ -1,4 +1,4 @@
-<img src="Logo.png"  width="500" height="350"> 
+<img width="269" alt="Logo " src="https://github.com/NajlaAlsowayedData/Readme1/assets/133565228/d7774211-c198-4eea-aa5f-046411713655">
 
 ## Names of group members and their roles: 
 ### 1- Albandari Alshudukhi (Web & Model) 
