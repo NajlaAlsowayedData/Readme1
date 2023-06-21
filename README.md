@@ -42,7 +42,7 @@ The results after creating the Color Correctness Model are successfully detectin
 <img src="e1.png"  width="500" height="350"> 
 
 
-###Graph of the Color Correctness Model training results:
+### Graph of the Color Correctness Model training results:
 
 #### 1- Train/val box_loss: the bounding box loss of the training dataset or validation dataset; the smaller the box is, the more accurate. 
 
