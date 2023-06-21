@@ -1,5 +1,4 @@
-# Model 
-<img src="Logo.png"  width="500" height="350"> 
+<img src="Logo.png"  width="500" height="500"> 
 
 ## Names of group members and their roles: 
 ### 1- Albandari Alshudukhi (Web & Model) 
