@@ -16,7 +16,7 @@ https://universe.roboflow.com/dataset-yn4f8/detect-e9mzw/dataset/3
 
 
 # Proposed Algorithms:
-<img src="yolo-png--1337.png"  width="400" height="400">  <img src="pytorch-logo-dark.png"  width="400" height="400"> 
+<img src="yolo-png--1337.png"  width="500" height="500">  
 
 At first, we wanted the model we built to be real-time and easy to use, so the first suggestion we applied in Color Correctness Model was implementing Web Camera, then our algorithms started to work! 
 Web Camera detects the type of worn clothes such as Recognition Pants, T-shirts, Hoodies, Mid-length skirts, Mid-length dresses, and Jackets, and at the same moment detects the color of worn clothes. The Algorithm used in Color Correctness Model is YOLO, which is a pre-trained deep learning algorithm. It is one of the most effective object detection algorithms that also encompasses many of the most innovative ideas coming out of the computer vision research community. Object detection is a critical capability of autonomous vehicle technology.
@@ -27,19 +27,19 @@ Web Camera detects the type of worn clothes such as Recognition Pants, T-shirts,
 
 The results after creating the Color Correctness Model are successfully detecting of trained clothes (Pants, T-shirts, Hoodies, Mid-length skirts, Mid-length dresses, and Jackets) and detecting the colors of the showing clothes too.
 
-## These graphs below represent model performane 
+## These graphs below represent the model performance 
 
 ### High precision and recall will return very few results, but most of the predictions are correct
 
-<img src="e2.png"  width="400" height="400"> 
+<img src="e2.png"  width="500" height="500"> 
 
 ### F1 detection confidence threshold curve for YOLOv5
 
-<img src="e3.png"  width="400" height="400">
+<img src="e3.png"  width="500" height="500">
 
 ### Precision detection confidence threshold curve for YOLOv5
 
-<img src="e1.png"  width="400" height="400"> 
+<img src="e1.png"  width="500" height="500"> 
 
 
 ###Graph of the Color Correctness Model training results:
@@ -50,6 +50,6 @@ The results after creating the Color Correctness Model are successfully detectin
 
 #### 3- Train/val cls_loss: train or validation is speculated to be the mean of classification loss, and the smaller the classification is, the more accurate. 
  
-<img src="e4.png"  width="200" height="200">  
+<img src="e4.png"  width="500" height="500">  
 
 
