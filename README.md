@@ -1,4 +1,5 @@
-![Image 1](Logo.png)
+<img src="Logo.png"  width="500" height="350"> 
+
 ## Names of group members and their roles: 
 ### 1- Albandari Alshudukhi (Web & Model) 
 ### 2- Amjad Alsuwaiket (Web & Model)
